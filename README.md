@@ -22,4 +22,6 @@ done
 
 when it finds a bug, it will notify you and sleep.
 
+and with an average flip speed (on a 2013 MacBook Pro 13", mind you), of over 114K flips/s, it will fuzz any format in no-time, fuzzing a 123.6MB binary format (DMG) in just 9.5 seconds!
+
 if you think your product could be made more secure with fun_flipper binary fuzzing, go ahead and use it in your project, it's GPLv2! if you need help, you can file an issue on GitHub, or email the "manager" at [aquaticvegetable@gmail.com](mailto:aquaticvegetable@gmail.com)
