@@ -1,5 +1,5 @@
 # funflipper.github.io
-fun_flipper / funflipper / libdolphin (which from now on will be referred to as dolphin) is a FOSS (free and open source software) general purpose binary format fuzzer.
+fun_flipper / funflipper / libdolphin (which from now on will be referred to as fun_flipper) is a FOSS (free and open source software) general purpose binary format fuzzer.
 
 fun_flipper works by randomly "flipping" (randomizing) characters in a binary / binary format, to try to find bugs in their parsers.
 
